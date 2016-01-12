@@ -1,0 +1,12 @@
+---
+title: Blog
+layout: post
+author: guy.lane
+permalink: /untitled-document/
+source-id: 1Qsaq7H44SGnM93TlnayB5G3Cvrf7XdaXB0rdGhs6AiY
+published: true
+---
+New blog
+
+In my lesson we learned about all the different medias and what it meant, we also played media bingo which is where you had to ask questions to people and they would say yes or no and you had to get 4 in a row. Media is where people can get their news or information off it is also where you can talk to other people (social media). Examples of media are - Youtube, snapchat, instagram, twitter and facebook most of these are social media. What i found difficult was when we had to make new folders and put new things in it.
+
