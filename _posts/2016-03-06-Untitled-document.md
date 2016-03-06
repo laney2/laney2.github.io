@@ -1,0 +1,12 @@
+---
+title: Coding
+layout: post
+author: guy.lane
+permalink: /untitled-document/
+source-id: 1lJA4gr_tJ3xCyHPvdxMvhfGKXb3VIsvz0P3TWO1YfjE
+published: true
+---
+Coding
+
+In my lesson on monday we did coding on a website called codecombat and it was a better way of teaching children how to type coding as it was coding and a quest where you had to get achievements to complete the game, what I found easy about it was that it wasn't so complex that you would need help every second or every time you attempted the coding. What was quite difficult about the game was that there was some certain levels where you couldn’t choose your route and you had to use the computers route, there was also a few levels in which I had to get help from the people around me or the 'help’ button on the screen which told you what to do. 
+
