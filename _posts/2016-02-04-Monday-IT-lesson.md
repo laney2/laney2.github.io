@@ -2,7 +2,7 @@
 title: Monday It lesson
 layout: post
 author: guy.lane
-permalink: /untitled-document/
+permalink: /Monday-IT-lesson/
 source-id: 14vEumf3qqBa_10RKZGTQR3NtkjOo9w6yqxAfBEbn5Cg
 published: true
 ---
