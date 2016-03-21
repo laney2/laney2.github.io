@@ -2,7 +2,7 @@
 title: FUN LESSON
 layout: post
 author: guy.lane
-permalink: /untitled-document/
+permalink: /In-my-lesson/
 source-id: 1PzmGY4k3QeBonFP-oJBAUPd9hfX_TKOeqP6LDlrnedI
 published: true
 ---
