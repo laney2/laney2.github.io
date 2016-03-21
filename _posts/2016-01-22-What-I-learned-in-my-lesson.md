@@ -2,7 +2,7 @@
 title: What i learned in the lesson
 layout: post
 author: guy.lane
-permalink: /Blog-3/
+permalink: /What-I-learned-in-my-lesson/
 source-id: 1Jd-oryNP821KN-gwnB4A7UskE85MpLDEOrbk1iyd8m0
 published: true
 ---
