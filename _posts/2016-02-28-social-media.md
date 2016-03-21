@@ -2,7 +2,7 @@
 title: Social media
 layout: post
 author: guy.lane
-permalink: /untitled-document/
+permalink: /untitled-social-media/
 source-id: 1lFFelRuXlT0qy_2f2z5QWC3xttOdkzbnvrHzSqfXp8s
 published: true
 ---
