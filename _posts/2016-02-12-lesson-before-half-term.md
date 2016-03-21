@@ -2,7 +2,7 @@
 title: In my last lesson before half-term
 layout: post
 author: guy.lane
-permalink: /untitled-document/
+permalink: /lesson-before-half-term/
 source-id: 1qWVMP9vasBBoWtjCzQiATVOQQM7Fm1bJYWbTfgTd1r4
 published: true
 ---
