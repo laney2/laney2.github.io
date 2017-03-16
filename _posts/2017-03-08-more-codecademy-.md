@@ -1,5 +1,5 @@
 ---
-title: more codecademy 
+title:  codecademy 5
 layout: post
 author: guy.lane
 permalink: /more-codecademy-/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>More codecademy</td>
+    <td>Codecademy 5</td>
     <td>Date</td>
     <td>08.03.17</td>
   </tr>
