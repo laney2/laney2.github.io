@@ -117,12 +117,12 @@ img {
 
 .date {
   font-style: italic;
-  color: $black;
+  color: #000000;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: #000000;
   background: #3399ff;
 }
 ::selection {
